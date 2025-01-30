@@ -9,6 +9,7 @@ b1 = (sum_y - b0 * sum_x) / N
 """
 
 # Read data from CSV file
+
 file_path = 'DAV/exp1Dataset.csv'
 rows = []
 with open(file_path, 'r') as file:
