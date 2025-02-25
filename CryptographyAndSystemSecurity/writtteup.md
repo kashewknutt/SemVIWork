@@ -13,4 +13,8 @@ Theory
 
 ## Exp5
 #### Aim: Exploring wireless security tools like netspot, kismt and inssider (windows based), wep crack and crash-ng (linux based).
+Print lena hai
+SSID
+Every column in netspot is to be described.
+Type: GNAC
 
